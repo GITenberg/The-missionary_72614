@@ -1,0 +1,32 @@
+_repo: The-missionary_72614
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bone, Jesse F. (Jesse Franklin)
+    aliases:
+    - Bone, Jesse Franklin
+    - Bone, J.F.
+    - Bone, J. F. (Jesse Franklin)
+    birthdate: 1916
+    deathdate: 2006
+    gutenberg_agent_id: '946'
+    url: http://www.gutenberg.org/2009/agents/946
+description: ''
+gutenberg_issued: '2024-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72614'
+language: en
+pgterms:marc905: 20231216042500bone
+pgterms:marc906: '1960'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1960.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The missionary
+url: http://www.gutenberg.org/ebooks/72614
